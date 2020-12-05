@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there 👾
+
+15+ years experience in banner design and animation
+
+My stack in addition to graphic skills:
+- JavaScript
+- Python
+- Some Swift and Objective-C experience
+- HTML / CSS / webpack / preprocessors
+- Vue.js
+- GSAP libs (TweenMax, Timeline)
+- basic REST API and MongoDB experience
+
+♿️ Wheelchair User
+📍 Russia, Saint-Petersburg
 
 <!--
 **r-ss/r-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
