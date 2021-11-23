@@ -1,15 +1,16 @@
 ### Hi there 👾
 
-15+ years experience in banner design and animation
+15+ years experience in banner design and animation, shifting to development
 
 My stack in addition to graphic skills:
-- JavaScript
 - Python
+- JavaScript
 - Some Swift and Objective-C experience
 - HTML / CSS / webpack / preprocessors
+- REST API and MongoDB experience
 - Vue.js
 - GSAP libs (TweenMax, Timeline)
-- basic REST API and MongoDB experience
+
 
 ♿️ Wheelchair User
 📍 Russia, Saint-Petersburg
