@@ -2,18 +2,17 @@
 
 15+ years experience in banner design and animation, shifting to development
 
-My stack in addition to graphic skills:
+My stack:
 - Python
+  REST, FastAPI, Pydantic, Flask, Django
 - JavaScript
+  Vue.js, GSAP libs (TweenMax, Timeline)
 - Some Swift and Objective-C experience
 - HTML / CSS / webpack / preprocessors
 - REST API and MongoDB experience
-- Vue.js
-- GSAP libs (TweenMax, Timeline)
-
 
 ♿️ Wheelchair User
-📍 Russia, Saint-Petersburg
+📍 Barcelona
 
 <!--
 **r-ss/r-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
