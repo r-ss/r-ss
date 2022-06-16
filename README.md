@@ -4,9 +4,9 @@
 
 My stack:
 - Python
-  REST, FastAPI, Pydantic, Flask, Django
+- REST, FastAPI, Pydantic, Flask, Django
 - JavaScript
-  Vue.js, GSAP libs (TweenMax, Timeline)
+- Vue.js, GSAP libs (TweenMax, Timeline)
 - Some Swift and Objective-C experience
 - HTML / CSS / webpack / preprocessors
 - REST API and MongoDB experience
