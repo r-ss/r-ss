@@ -8,7 +8,7 @@ My stack:
 - JavaScript
 - Vue.js, GSAP libs (TweenMax, Timeline)
 - Some Swift and Objective-C experience
-- HTML / CSS / webpack / preprocessors
+- HTML, CSS, webpack, preprocessors
 - REST API and MongoDB experience
 
 ♿️ Wheelchair User
