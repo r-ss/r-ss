@@ -1,30 +1,17 @@
 ### Hi there 👾
 
-15+ years experience in banner design and animation, shifting to development
+[My CV](https://ress.ws/cv)  
+[LinkedIn](https://www.linkedin.com/in/alexantipov/)  
+[Instagram](https://www.instagram.com/r_ss/)
 
 My stack:
-- Python
-- REST, FastAPI, Pydantic, Flask, Django
-- JavaScript
-- Vue.js, GSAP libs (TweenMax, Timeline)
-- Some Swift and Objective-C experience
-- HTML, CSS, webpack, preprocessors
-- REST API and MongoDB experience
+- Python — Backend, FastAPI, REST API etc.
+- Swift, SwiftUI — Have an apps in AppStore completely built by me.
+- JavaScript, Vue.js, SPA
+- Docker Compose, everyday linux experience.
+- HTML, CSS, vite, preprocessors
 
 ♿️ Wheelchair User
 📍 Barcelona
 
-<!--
-**r-ss/r-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
