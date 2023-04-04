@@ -7,8 +7,8 @@
 My stack:
 - Python — Backend, FastAPI, REST API etc.
 - Swift, SwiftUI — Have an apps in AppStore completely built by me.
-- JavaScript, Vue.js, SPA
-- Docker Compose, everyday linux experience.
+- JavaScript — Vue.js, SPA, GSAP
+- Docker Compose, Mongo, Redis
 - HTML, CSS, vite, preprocessors
 
 ♿️ Wheelchair User
